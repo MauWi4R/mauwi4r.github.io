@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![image](https://github.com/MauWi4R/mauwi4r.github.io/assets/124299092/aeab280d-eac2-4f6a-992f-27a0f7e096ab)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/MauWi4R/mauwi4r.github.io/assets/124299092/d925643e-126d-41e0-9686-8c86be3d0bf7)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/MauWi4R/mauwi4r.github.io/assets/124299092/11d0c412-c1c2-479b-bb30-cc1c35f5f2a6)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/MauWi4R/mauwi4r.github.io/assets/124299092/6b788044-047f-4a27-ac69-f2330021493d)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/MauWi4R/mauwi4r.github.io/assets/124299092/c774513b-3da0-4d0d-ac86-4f0a696d8934)
 
 ## Tecnologías
 
